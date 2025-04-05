@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/wyaSwift/Adopt-me/refs/heads/main/Adopt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/earmg/BestAdPtMe/refs/heads/main/haerinwjnsxx'))()
