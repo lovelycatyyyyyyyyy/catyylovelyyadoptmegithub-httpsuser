@@ -1,2 +1,1 @@
-# catyylovelyyadoptmegithub-httpsuser
-Catyylovelyyadoptmegithub(httpsuser
+loadstring(game:HttpGet('https://raw.githubusercontent.com/wyaSwift/Adopt-me/refs/heads/main/Adopt'))()
